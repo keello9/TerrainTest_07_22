@@ -1,0 +1,7 @@
+ssss/Binaries/Win64/TencentTest_07_03-Win64-Shipping.pdb filter=lfs diff=lfs merge=lfs -text
+ssss/Content/KiteDemo/Environments/Rocks/GroundRevealRock002/T_GroundRevealRock002_D_CC_R.uasset filter=lfs diff=lfs merge=lfs -text
+ssss/Content/KiteDemo/Environments/Rocks/GroundRevealRock002/T_GroundRevealRock002_N.uasset filter=lfs diff=lfs merge=lfs -text
+ssss/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/T_GDC_LargeVolcanicRock_001_D2_R.uasset filter=lfs diff=lfs merge=lfs -text
+ssss/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/T_GDC_LargeVolcanicRock_001_N.uasset filter=lfs diff=lfs merge=lfs -text
+ssss/Content/KiteDemo/LevelContent/HDRI/KimsBackYard.uasset filter=lfs diff=lfs merge=lfs -text
+ssss/Content/NewMap/Level_NewMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
