@@ -1,0 +1,453 @@
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 0
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 2
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 3
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 4
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPersonRun.uasset" 5
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 6
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 7
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 8
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 10
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 11
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 12
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 13
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 14
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 15
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 16
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 17
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 18
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 19
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 20
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 21
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 22
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 23
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 24
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 25
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 26
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 27
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 28
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 29
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 30
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 31
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 32
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 33
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 34
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 35
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 36
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 37
+"../../../Engine/Content/BasicShapes/Cone.uasset" 38
+"../../../Engine/Content/BasicShapes/Cube.uasset" 39
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 40
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 41
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 42
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 43
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 44
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 45
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 46
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 47
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 48
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 49
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 50
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 51
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 52
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 53
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 54
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 55
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 56
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 57
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 58
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 59
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 60
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 61
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 62
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 63
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 64
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 65
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 66
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 67
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 68
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 69
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 70
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 71
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 72
+"../../../Engine/Content/EditorResources/S_Note.uasset" 73
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 74
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 75
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 76
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 77
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 78
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 79
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 80
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 81
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 82
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 83
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 84
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 85
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 86
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 87
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 88
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 89
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 90
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 91
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 92
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 93
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 94
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 95
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 96
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 97
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 98
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 99
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 100
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 101
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 102
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 103
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 104
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 105
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 106
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 108
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 109
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 111
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 112
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 113
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 114
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 115
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 116
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 117
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 118
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 120
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 121
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 122
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 123
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 124
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 125
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 126
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 127
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 128
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 129
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 130
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 131
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 132
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 133
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 134
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 135
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 136
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 137
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 138
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 139
+"../../../Engine/Content/EngineSounds/Master.uasset" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 142
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 143
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 144
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 145
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 146
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 147
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 148
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 149
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 150
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 151
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 152
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 153
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 154
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 155
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 156
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 158
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 159
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 160
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 161
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 162
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 163
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 164
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 165
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 166
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 167
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 168
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 169
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 170
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 171
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 172
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 173
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 174
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 175
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 176
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 177
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 178
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 179
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 180
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 181
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 182
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 183
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 184
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 185
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 186
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 187
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 188
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 189
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 190
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 191
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 192
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 193
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 194
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 196
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 197
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 198
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 199
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 200
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 201
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 202
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 203
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 207
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 210
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 211
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 212
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 213
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 215
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 216
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 218
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 219
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 220
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 221
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 222
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 223
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 224
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 225
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 226
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 228
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 229
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 233
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 234
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 235
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 238
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 239
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 240
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 241
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 242
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 243
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 244
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 245
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 246
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 247
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 248
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 249
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 250
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 251
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 252
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 253
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 254
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 255
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 256
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 257
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 258
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 259
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/FogBrightnessLUT.uasset" 260
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/SunlightColorLUT.uasset" 261
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 262
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 263
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 264
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 265
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 266
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 267
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/Skybox.uasset" 268
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/Assets/SM_Arrows.uasset" 269
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 270
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/Blueprints/BP_LightStudio.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 272
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Billboards_Normal_Tex.uasset" 273
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Billboards_Tex.uasset" 274
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Billboard_Mat.uasset" 275
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_D_Tex.uasset" 276
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_LimbTile_02_N_Tex.uasset" 277
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_2_Mat.uasset" 278
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_D_Tex.uasset" 279
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_Tile_01_N_Tex.uasset" 280
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_Craghead_Oak_TileMoss_01_D_Tex.uasset" 281
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Branches_Mat.uasset" 282
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Fronds_Mat.uasset" 283
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Normal_Tex.uasset" 284
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Specular_Tex.uasset" 285
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Atlas_Tex.uasset" 286
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 288
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/FoliageZRotation.uasset" 289
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 290
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 291
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Pi.uasset" 292
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 293
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 294
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/ImposterUVs.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 296
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 297
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderMask.uasset" 298
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01.uasset" 299
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_Depth.uasset" 300
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_N.uasset" 301
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_S_R.uasset" 302
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/T_HillTreeBillboard_01_SSS.uasset" 303
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard.uasset" 304
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/M_CustomDepthBillboard_Inst.uasset" 305
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_02.uasset" 306
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Tree_00.uasset" 307
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_02/HillTree_01_Leaves_Mat2.uasset" 308
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Atlas_Billboards_Normal_Tex.uasset" 309
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Atlas_Billboards_Tex.uasset" 310
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_01_Billboard_Mat.uasset" 311
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.uasset" 312
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Tree_01.uasset" 313
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Atlas_Billboards_Normal_Tex.uasset" 314
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Atlas_Billboards_Tex.uasset" 315
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Billboard_Mat.uasset" 316
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/T_ScotsPine_Bark_01_N_Tex.uasset" 317
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/T_ScotsPine_Bark_01_Tex.uasset" 318
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/T_ScotsPine_Bark_03_D_Tex.uasset" 319
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat.uasset" 320
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/T_ScotsPine_Bark_03_N.uasset" 321
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat.uasset" 322
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat.uasset" 323
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Atlas_Normal_Tex.uasset" 324
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Atlas_Specular_Tex.uasset" 325
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Atlas_Tex.uasset" 326
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat.uasset" 327
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01.uasset" 328
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Tree_02.uasset" 329
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Normal_Tex.uasset" 330
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Atlas_Billboards_Tex.uasset" 331
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01_Billboard_Mat.uasset" 332
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Trees/ScotsPineTall_01/ScotsPineTall_01.uasset" 333
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Tree_03.uasset" 334
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Material/WorldCoords-XY.uasset" 335
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_01_D.uasset" 336
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_02_M.uasset" 337
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Textures/T_Water_N.uasset" 338
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_01.uasset" 339
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01.uasset" 340
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD1.uasset" 341
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD2.uasset" 342
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.uasset" 343
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Grass_00.uasset" 344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 346
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/clouds.uasset" 347
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/grass_alpha_bsm.uasset" 348
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/grass_alpha_nrm.uasset" 349
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/grass_alpha_rgm.uasset" 350
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/master_foliage.uasset" 351
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/grass_a.uasset" 352
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/grass_a_cheap_distant.uasset" 353
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/grass_small_02.uasset" 354
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Grass_01.uasset" 355
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalToWorldData.uasset" 357
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter/PivotPainter_PerObjectData.uasset" 358
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Wind.uasset" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter/PivotPainter_PerObjectFoliageData.uasset" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 361
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 363
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/T_Buttercup_Patch_01_D.uasset" 364
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/T_Buttercup_Patch_01_M.uasset" 365
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise.uasset" 366
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01.uasset" 367
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01_Inst_NoWPO.uasset" 368
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/SM_Buttercup_Patch_01.uasset" 369
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Grass_02.uasset" 370
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/leaves_fern_bsm.uasset" 371
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/leaves_fern_nrm.uasset" 372
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/leaves_fern_rgm.uasset" 373
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/leaves_fern.uasset" 374
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/leaves_fern_01.uasset" 375
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Grass_03.uasset" 376
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Leaves/T_DeadLeavesAtlas_01_D.uasset" 377
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Leaves/T_DeadLeavesAtlas_01_N.uasset" 378
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Leaves/T_DeadLeavesAtlasTop_01_D.uasset" 379
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Leaves/M_DeadLeaves.uasset" 380
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves.uasset" 381
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Leaf.uasset" 382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/SphereRenderNormalsMap.uasset" 383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldAlignedNormals_HighQuality.uasset" 384
+"../../../Engine/Content/EngineMaterials/DefaultNormal_Uncompressed.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedNormal.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 387
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 388
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 390
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/moss_bsm.uasset" 391
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/moss_nrm.uasset" 392
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/moss_rgm.uasset" 393
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock-a_bsm.uasset" 394
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock-a_nrm.uasset" 395
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock-a_rgm.uasset" 396
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock_tiling_bsm-2.uasset" 397
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock_tiling_nrm-2.uasset" 398
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/master_rocks_small1.uasset" 399
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock_small_tiling3_bsm.uasset" 400
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock_small_tiling_nrm.uasset" 401
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock_small_tiling_rgm.uasset" 402
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/rocks_small_d.uasset" 403
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/rock_group_small_a4.uasset" 404
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Rock.uasset" 405
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/Blue_LayerInfo.uasset" 406
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/Green_LayerInfo.uasset" 407
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/Ground_LayerInfo.uasset" 408
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/GroundRoad_LayerInfo.uasset" 409
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/NearRiver_LayerInfo.uasset" 410
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/Red_LayerInfo.uasset" 411
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_sharedassets/Road_LayerInfo.uasset" 412
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap_BuiltData.uasset" 413
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/gound_with_mud_basecolor.uasset" 414
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/Mud++_basecolor.uasset" 415
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/Mud++_normal.uasset" 416
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/Snow_basecolor.uasset" 417
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/T_Ground_Grass_N.uasset" 418
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/T_GDC_Grass01_D_NoisyAlpha.uasset" 419
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/Texturemap_07_17.uasset" 420
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/MainGround_Mat.uasset" 421
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/T_Water_01_N.uasset" 422
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/T_Water_Ripple_Directional_Noise.uasset" 423
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/WaterPool_Mat.uasset" 424
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/WaterRiver_Mat.uasset" 425
+"../../../Engine/Content/BasicShapes/Plane.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 427
+"../../../Engine/Content/EngineResources/Black.uasset" 428
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Textures/T_CliffRock_03_N.uasset" 429
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Textures/T_CliffRockTile_03_D.uasset" 430
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Material/M_Photoscan_Master.uasset" 431
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/T_GDC_LargeVolcanicRock_001_N.uasset" 432
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/T_GDC_LargeVolcanicRock_001_D2_R.uasset" 433
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/MI_Large_VolcanicRock_002.uasset" 434
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001.uasset" 435
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004.uasset" 436
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/KiteDemo/LevelContent/HDRI/KimsBackYard.uasset" 437
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/Plane.uasset" 438
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/rocks_small_c1.uasset" 439
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/rock_group_small_a2_variation.uasset" 440
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/rock_small_tiling0_bsm.uasset" 441
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/rocks_small_b.uasset" 442
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/rock_group_small_b2.uasset" 443
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/rock_group_small_c2_variation.uasset" 444
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/T_River_Rock_01_N.uasset" 445
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Texture/T_River_Rock_01_D_CC_R.uasset" 446
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Material/MI_River_Rock_02.uasset" 447
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Mesh/SM_River_Rock_02.uasset" 448
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/PFS_Tree.uasset" 449
+"E:/Unreal Projects/TencentTest_07_22 4.22/Content/NewMap/Level_NewMap.umap" 450
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 451
+"../../../Engine/Content/Maps/Entry.umap" 452
