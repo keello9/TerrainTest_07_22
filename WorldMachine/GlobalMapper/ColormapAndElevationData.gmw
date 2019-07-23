@@ -1,0 +1,195 @@
+GLOBAL_MAPPER_SCRIPT VERSION="1.00" FILENAME="E:\Unreal Projects\TencentTestTerrain\ColormapAndElevationData.gmw" \
+	 GM_VERSION="20.1.2" TIMESTAMP="2019-06-28T12:08:01Z"
+SET_BG_COLOR COLOR="RGB(255,255,255)"
+UNLOAD_ALL
+IMPORT_WMS LAT_LON_BOUNDS="-106.34483125,39.37887134,-105.86027987,39.56751755" SOURCE_DESC="US National Map Imagery (1 Foot or Better Resolution) [NAIP]" \
+	 WMS_SERVER_URL="https://services.nationalmap.gov/arcgis/services/USGSNAIPPlus/MapServer/WMSServer" \
+	 WMS_SERVICE="WMS&request=GetCapabilities&service=WMS" WMS_LAYER="1" WMS_REFRESH_TIME="20160" \
+	 WMS_MAX_ZOOM_RES="0.20" DRAW_USING_TILES="NO" LAYER_DESC="US National Map Imagery (1 Foot or Better Resolution) [NAIP]" \
+	 METADATA_URL="http://nationalmap.gov" LABEL_FIELD_FORCE_OVERWRITE="NO" LABEL_FORMAT_NUMBERS="YES" \
+	 LABEL_PRECISION="-1" LABEL_REMOVE_TRAILING_ZEROS="YES" LABEL_USE_SCIENTIFIC_NOTATION="NO" \
+	 BAND_RANGE="-32000.000000000,32000.000000000,ALL,0" CLIP_COLLAR="NONE" SAMPLING_METHOD="BICUBIC" \
+	 AUTO_CONTRAST="NO" CONTRAST_SHARED="NO" CONTRAST_MODE="NONE" TEXTURE_MAP="NO"
+IMPORT_ARCHIVE FILENAME="n40w107\n40w107.shp" TYPE="SHAPEFILE" ELEV_UNITS="METERS" \
+	 LABEL_FIELD_FORCE_OVERWRITE="NO" LABEL_FORMAT_NUMBERS="YES" LABEL_PRECISION="-1" \
+	 LABEL_REMOVE_TRAILING_ZEROS="YES" LABEL_USE_SCIENTIFIC_NOTATION="NO" CODE_PAGE="1252" \
+	 ARCHIVE_FILENAME="E:\Unreal Projects\TencentTestTerrain\USGS_TerrainIMG_OriginalHeightMap.zip"
+IMPORT_ARCHIVE FILENAME="USGS_NED_13_n40w107_IMG.img" TYPE="ERDAS" LABEL_FIELD_FORCE_OVERWRITE="NO" \
+	 LABEL_FORMAT_NUMBERS="YES" LABEL_PRECISION="-1" LABEL_REMOVE_TRAILING_ZEROS="YES" \
+	 LABEL_USE_SCIENTIFIC_NOTATION="NO" HIDDEN="YES" BAND_RANGE="1892.135009766,4397.064453125,GTE_MIN,1,1892.13500976562500000" \
+	 CLIP_COLLAR="NONE" SAMPLING_METHOD="BILINEAR" ELEV_UNITS="METERS" ARCHIVE_FILENAME="E:\Unreal Projects\TencentTestTerrain\USGS_TerrainIMG_OriginalHeightMap.zip"
+EMBED_OVERLAY DATA_SIZE="984" FEATURE_TEMPLATE="NO" LAYER_DESC="User Created Features" \
+	 LABEL_FIELD_FORCE_OVERWRITE="NO" LABEL_FORMAT_NUMBERS="YES" LABEL_PRECISION="-1" \
+	 LABEL_REMOVE_TRAILING_ZEROS="YES" LABEL_USE_SCIENTIFIC_NOTATION="NO" CODE_PAGE="1252" \
+	 CLIP_COLLAR="NONE"
+M@0$!`!`1``"!`0``%@```)<!``#"````60(``*,```#\`@```````!0```#\
+M`@``+````"P````H`P``#`````P````T`P````````P````T`P``#`````P`
+M``!``P``=````+0#````````M`,``"0`````````````````````````````
+M``````````````````````````````````````````````````#8`P``````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````````````````
+M````````````````````````````````````````````````V`,`````````
+M`````````-@#`````````````````````````````.0$``#8`P``````````
+M``#8`P``````````````````%P#D!```_U5S97(@0W)E871E9"!&96%T=7)E
+M<P!0<F]J96-T:6]N("`@("!'14]'4D%02$E#"D1A='5M("`@("`@("`@(%='
+M4S@T"EIU;FET<R`@("`@("`@($U%5$52"E5N:71S("`@("`@("`@($1$"EAS
+M:&EF="`@("`@("`@(#`N,#`P,#`P"EES:&EF="`@("`@("`@(#`N,#`P,#`P
+M"E!A<F%M971E<G,*,"`P(#`N,#`P,#`@+RH@;&]N9VET=61E(&]F(&-E;G1E
+M<B!O9B!P<F]J96-T:6]N```Q`#,R(&MM`#0@:VT`-C,N.3@U('-Q(&MM`#<N
+M.3DV(&MM`#@@:VT`1&]T`$5.0TQ/4T5$7T%214$`3$5.1U1(`%!%4DE-151%
+M4@!204Y'10!224Y'7T-/54Y4`%)A;F=E(%)I;F<`4F%N9V4@4FEN9R!#96YT
+M97(`5TE$5$@`?C!^-3,T.#<V,3<P?C`N,#`P?C!^,'XQ-C<W-S(Q-7XM,0`#
+M````0```````(````````````````````````````````````````````%T`
+M````````@````&@````I````@````'0``)T```D%`$P)0@,M#CLD>AL%````
+MWNW!YXF)6L#D)7$R+L%#0`:?!*26@UK`Y"5Q,B[!0T`&GP2DEH-:P#=O%1'U
+MMT-`WNW!YXF)6L`W;Q41];=#0-[MP>>)B5K`Y"5Q,B[!0T`0`````/______
+G____)```&0```@!,"5(!ET@M19"&6L#6Q+.BD;Q#0/__________
+`
+end
+DEFINE_PROJ PROJ_NAME="MERCAT_WGS84"
+Projection     MERCATOR
+Datum          WGS84
+Zunits         NO
+Units          METERS
+Xshift         0.000000
+Yshift         0.000000
+Parameters
+1.000000000 /* scale factor at central meridian
+0 0 0.00000 /* central meridian
+0 0 0.00000 /* latitude of the origin
+0.0000 /* false easting (meters)
+0.0000 /* false northing (meters)
+END_DEFINE_PROJ
+LOAD_PROJECTION PROJ_NAME="MERCAT_WGS84"
+SET_VIEW GLOBAL_BOUNDS="-11838686.28011,4744718.02907,-11778318.83581,4784931.81846"
+SET_VERT_DISP_OPTS SHADER_NAME="Gradient Shader" AMBIENT_LIGHT_LEVEL="0.0000000000" \
+	 VERT_EXAG="3.0000000" LIGHT_ALTITUDE="45.000000" LIGHT_AZIMUTH="45.000000" LIGHT_NUM_SOURCES="1" \
+	 LIGHT_BLENDING_ALGORITHM="0" SLOPE_ALGORITHM="0" ENABLE_HILL_SHADING="NO" SHADE_DARKNESS="0" \
+	 SHADE_HIGHLIGHT="0" ENABLE_WATER="NO" WATER_ALPHA="128" WATER_LEVEL="0.0000000000" \
+	 WATER_COLOR="RGB(0,0,255)"
+SET_SHADER_OPTS HSV="HSV=0.000000,1.000000,1.000000,360.000000"
+
+/************ DEFINE MAP LAYOUT *************/
+MAP_LAYOUT
+ElevLegendBgColor=16777215
+ElevLegendTranslucency=384
+ElevLegendFont=~0~534799372~0.000~0~0~16777215~-1
+ElevLegendVisible=1
+ElevLegendDisplayType=1
+ElevLegendDisplayUnits=1
+ElevLegendDisplayUnitsStr=
+ElevLegendCustomRangeMin=0
+ElevLegendCustomRangeMax=0
+ElevLegendRangeType=0
+ElevLegendTitle=
+ElevLegendSlopePercent=0
+
+DEFINE_PROJ_ELEV_LEGEND
+Projection     Fixed Screen Position
+Datum          D_ADINDAN
+Zunits         NO
+Units          RADIAN
+Xshift         0.000000
+Yshift         0.000000
+Parameters
+0.000000000 /* horz offset
+0.000000000 /* horz offset type (0 - left, 1 - right, 2 - center)
+0.000000000 /* horz offset value type (0 - inches, 1 - % width, 2 - deg lon)
+0.000000000 /* vert offset
+0.000000000 /* vert offset type (0 - top, 1 - bottom, 2 - center)
+0.000000000 /* vert offset value type (0 - inches, 1 - % width, 2 - deg lat)
+100.000000000 /* size value
+2.000000000 /* size value type (0 - % width, 1 - % height, 2 - pixel)
+1.000000000 /* always on top
+0.000000000 /* shrink to fit
+END_DEFINE_PROJ
+
+MapLegendType=0
+MapLegendBgColor=16776959
+MapLegendBorderStyle=0,2097152,0.0
+MapLegendTranslucency=512
+MapLegendFont=~0~534799368~0.000~0~0~16777215~-1
+MapLegendFooterFont=~0~534799372~0.000~0~0~16777215~-1
+MapLegendHeaderFont=~0~534799372~0.000~0~0~16777215~-1
+MapLegendHeader=
+MapLegendFooter=
+MapLegendNumColumns=1
+MapLegendLabelAttr=
+MapLegendUseNaturalSort=0
+MapLegendUseGroups=0
+
+DEFINE_PROJ_MAP_LEGEND
+Projection     Fixed Screen Position
+Datum          D_ADINDAN
+Zunits         NO
+Units          RADIAN
+Xshift         0.000000
+Yshift         0.000000
+Parameters
+0.000000000 /* horz offset
+1.000000000 /* horz offset type (0 - left, 1 - right, 2 - center)
+0.000000000 /* horz offset value type (0 - inches, 1 - % width, 2 - deg lon)
+0.000000000 /* vert offset
+1.000000000 /* vert offset type (0 - top, 1 - bottom, 2 - center)
+0.000000000 /* vert offset value type (0 - inches, 1 - % width, 2 - deg lat)
+0.000000000 /* size value
+2.000000000 /* size value type (0 - % width, 1 - % height, 2 - pixel)
+1.000000000 /* always on top
+1.000000000 /* shrink to fit
+END_DEFINE_PROJ
+
+NorthArrowEnabled=0
+NorthArrowSymbol=
+NorthArrowSymbolScale=1.000000
+NorthArrowTranslucency=384
+
+DEFINE_PROJ_NORTH_ARROW
+Projection     Fixed Screen Position
+Datum          D_ADINDAN
+Zunits         NO
+Units          RADIAN
+Xshift         0.000000
+Yshift         0.000000
+Parameters
+0.000000000 /* horz offset
+1.000000000 /* horz offset type (0 - left, 1 - right, 2 - center)
+0.000000000 /* horz offset value type (0 - inches, 1 - % width, 2 - deg lon)
+0.000000000 /* vert offset
+0.000000000 /* vert offset type (0 - top, 1 - bottom, 2 - center)
+0.000000000 /* vert offset value type (0 - inches, 1 - % width, 2 - deg lat)
+100.000000000 /* size value
+2.000000000 /* size value type (0 - % width, 1 - % height, 2 - pixel)
+1.000000000 /* always on top
+0.000000000 /* shrink to fit
+END_DEFINE_PROJ
+
+ScaleBarBgColor=16777215
+ScaleBarTranslucency=384
+ScaleBarFont=~0~534799372~0.000~0~0~16777215~-1
+ScaleVisible=1
+
+DEFINE_PROJ_SCALE
+Projection     Fixed Screen Position
+Datum          D_ADINDAN
+Zunits         NO
+Units          RADIAN
+Xshift         0.000000
+Yshift         0.000000
+Parameters
+0.000000000 /* horz offset
+0.000000000 /* horz offset type (0 - left, 1 - right, 2 - center)
+0.000000000 /* horz offset value type (0 - inches, 1 - % width, 2 - deg lon)
+0.000000000 /* vert offset
+1.000000000 /* vert offset type (0 - top, 1 - bottom, 2 - center)
+0.000000000 /* vert offset value type (0 - inches, 1 - % width, 2 - deg lat)
+0.000000000 /* size value
+2.000000000 /* size value type (0 - % width, 1 - % height, 2 - pixel)
+1.000000000 /* always on top
+0.000000000 /* shrink to fit
+END_DEFINE_PROJ
+
+GridDisplayType=0
+GridDisplayShowAll=0
+GridSpacingLatLon=0.00000000000000000
+GridSpacingProjected=0.00000000000000000
+END_MAP_LAYOUT
